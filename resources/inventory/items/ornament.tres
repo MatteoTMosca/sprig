@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="InvItem" load_steps=3 format=3 uid="uid://c0at8kj0ihjlc"]
+
+[ext_resource type="Script" uid="uid://dgi0bkplkxwi8" path="res://resources/inventory/inventory_item.gd" id="1_y6cbt"]
+[ext_resource type="Texture2D" uid="uid://c483wy4co06pr" path="res://resources/sprites/New Piskel.png" id="2_ygbxj"]
+
+[resource]
+script = ExtResource("1_y6cbt")
+name = "ornament"
+texture = ExtResource("2_ygbxj")
+metadata/_custom_type_script = "uid://dgi0bkplkxwi8"

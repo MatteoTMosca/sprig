@@ -1,3 +1,29 @@
 Resources Used
 
-https://www.youtube.com/playlist?list=PL3cGrGHvkwn2NOT1LSwf5d2XZmlc5Bjsn
+tutorials
+	https://www.youtube.com/playlist?list=PL3cGrGHvkwn2NOT1LSwf5d2XZmlc5Bjsn
+	https://www.youtube.com/watch?v=QC_mn2tX6n0
+	https://www.youtube.com/watch?v=YT5ZE0a4YtU
+	
+
+Assets 
+	Sprites
+		https://axel-kulomaa.itch.io/snowy-tiles-and-sprites
+		https://murphysdad.itch.io/christmas-village-asset-pack
+		https://thehibiscuspoet.itch.io/cozy-winter-christmas-holiday
+		https://grayger26.itch.io/pixel-art-village-asset-pack#google_vignette
+		https://murphysdad.itch.io/rpg-asset-pack
+		https://trashbait.itch.io/santa-claus?download
+		https://stevenartstuff.itch.io/sprite-christmas-decorations
+		https://devworm.itch.io/survival-game-godot-4-series-art
+		https://jobit91.itch.io/mister-c
+		https://chasersgaming.itch.io/platformer-asset-tile-set-snowlands-nes
+		https://wurls.itch.io/snowy-asset-pack
+		https://o-lobster.itch.io/adventure-pack
+		https://pixel-sazy.itch.io/roleworld-cleric-package
+		https://ventilatore.itch.io/the-fantasy-tileset-snow-adventures
+		https://free-game-assets.itch.io/main-characters-home-free-top-down-pixel-art-asset
+		https://mrdakerchan.itch.io/top-down-pixel-interior
+		
+		
+		https://monkeyimage.itch.io/snowy-forest-tileset
