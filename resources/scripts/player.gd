@@ -52,7 +52,7 @@ func play_anim(dir):
 		if dir.x == -1:
 			$AnimatedSprite2D.play('w_walk')
 	
-	if player_state =="idle" and velocity.is_zero_approx() and !Global.transitioning:
+	if player_state =="idle" and velocity.is_zero_approx():
 		if Input.is_action_just_released("up"):
 			$AnimatedSprite2D.play("n_idle")
 			#$Marker2D.rotation_degrees = 270 
@@ -83,6 +83,8 @@ func _process(delta: float) -> void:
 		await get_tree().create_timer(0.5).timeout
 	else:
 		speed = 100
+		
+		
 	
 
 
